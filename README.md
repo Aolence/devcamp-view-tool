@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-BecerrilViewTool::Renderer.copyright 'Cristian Becerril', 'All rights reserved'
+DevcampViewTool::Renderer.copyright 'Cristian Becerril', 'All rights reserved'
 ```
 
 ## Development
